@@ -1,16 +1,30 @@
-## Hello there 👋 I'm Ritesh
+# Hey there, I'm Ritesh! 👋
 
-A **Graduate Student** in the physics department at the [University of Rhode Island](https://web.uri.edu/physics/), part of gravity research group [U2GRC](https://web.uri.edu/gravity/).
+I’m a **computational physicist** who loves turning complex math into fast, efficient code.
 
-- :computer: I’m currently working on
-  - Surrogate modeling of gravitational waves using [Black Hole Perturbation Toolkit](http://bhptoolkit.org)
-  - Gravitational wave inference and waveform systematics
-  - Black hole phenomenology and tidal interaction of BHs
-- :fountain_pen: I'm a Ph.D. student at the University of Rhode Island
-- :pushpin: I received M.Sc. in physics from IIT, Bombay
-- :memo: I’m learning
-  -  black hole perturbation theory
-  -  High performance computing
-- 💬 I know a thing or two about the phyics of black holes
+By day, I’m wrapping up my PhD at the [University of Rhode Island](https://web.uri.edu/physics/), where I simulate black holes and run heavy calculations on supercomputers. By night, I tinker with deep learning and data science projects.
 
-To know more about my research please visit (www.riteshbachhar.com). Feel free to contact me (riteshbachhar@gmail.com) for interesting conversations and collaboration.
+Basically, I like making computers solve hard physics problems—fast. 🚀
+
+---
+
+### ⚡ What I'm up to
+* **Simulating the Universe:** I build "surrogate models" (think: AI emulators for physics) to predict gravitational waves without waiting weeks for simulations to finish.
+* **High-Performance Computing:** I specialize in parallel computing (MPI, Slurm) and GPU acceleration. If it runs slow, I fix it.
+* **Data Science:** Recently, I've been working on Graph Neural Networks (GNNs) to detect financial fraud.
+
+### 🛠️ My Toolbox
+* **Languages:** Python (7+ years), C, Bash.
+* **The Heavy Lifters:** PyTorch, NumPy, SciPy, Pandas.
+* **Dev Ops:** Git, GitHub Actions (CI/CD), Apptainer/Docker.
+* **Physics:** General Relativity, Black Hole Perturbation Theory.
+
+---
+
+### 📬 Let's Chat
+I'm always down to talk about physics, coding, or the latest in tech.
+
+* 🌐 **Check out my work:** [riteshbachhar.com](http://www.riteshbachhar.com)
+* 📧 **Shoot me an email:** [riteshbachhar@gmail.com](mailto:riteshbachhar@gmail.com)
+
+> *"I know a thing or two about the physics of black holes."* 🕳️
