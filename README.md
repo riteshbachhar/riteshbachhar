@@ -6,7 +6,7 @@ I like making things that are fast, reliable, and actually useful.
 
 ### What you'll find here
 
-* **[BHPTNRSurrogate](https://github.com/riteshbachhar/BHPTNRSurrogate)** — Surrogate model for gravitational waveforms. 10⁶× faster than numerical simulations, pip-installable, used by multiple research groups.
+* **[BHPTNRSurrogate](https://github.com/riteshbachhar/BHPTNRSurrogate)** — Surrogate model for gravitational waveforms. 10⁶× faster than numerical simulations, used by multiple research groups.
 * **[AML-detection-using-AI](https://github.com/riteshbachhar/AML-detection-using-AI)** — Temporal GNN for anti-money laundering detection. 0.84 PR-AUC on 9.5M transactions, outperformed XGBoost by 41%.
 * **[SEOBNRv4CE](https://github.com/riteshbachhar/SEOBNRv4CE)** — Waveform model with built-in uncertainty quantification using Gaussian Process Regression.
 
