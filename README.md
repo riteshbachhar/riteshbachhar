@@ -16,7 +16,7 @@ Python (7+ years), PyTorch, SQL, Bayesian inference, time-series modeling, HPC (
 
 ### Currently interested in
 
-Data science and ML roles in finance, quantitative analytics, and research software engineering.
+Data science and ML roles in research software engineering, scientific computing, applied ML.
 
 ### Get in touch
 
